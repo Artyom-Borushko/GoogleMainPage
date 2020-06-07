@@ -50,6 +50,7 @@ header li {
     border-radius: 25px;
     position: relative;
     margin-left: 5px;
+    object-fit: cover;
 }
 
 
